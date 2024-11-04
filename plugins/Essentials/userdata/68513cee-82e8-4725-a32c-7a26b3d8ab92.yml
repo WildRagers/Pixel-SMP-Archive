@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 96.244.242.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730680687484
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730753428834
+  login: 1730753259173
+money: '174.01'
+last-account-name: Zodiac_991
+lastlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: 14.584042689742937
+  y: 36.0
+  z: 200.69999998807907
+  yaw: -112.21388244628906
+  pitch: 74.10001373291016
+logoutlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: 837.7214233873281
+  y: 63.0
+  z: -1869.8403470401954
+  yaw: -122.90956115722656
+  pitch: 46.64741516113281

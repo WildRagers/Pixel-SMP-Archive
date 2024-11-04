@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 145.82.124.0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730749131993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730753738706
+  login: 1730753724780
+money: '53.790000000000326'
+last-account-name: m5ta
+lastlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: 1818.569746338427
+  y: 26.0
+  z: 1450.300000011921
+  yaw: -166.49835205078125
+  pitch: -25.649856567382812
+logoutlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: 1211.1867521752963
+  y: 62.11068931204532
+  z: -1338.1813728859534
+  yaw: -118.82817077636719
+  pitch: 29.100082397460938

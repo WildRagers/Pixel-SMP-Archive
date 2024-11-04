@@ -1,0 +1,16 @@
+command /rtp:
+	cooldown: 2 hours
+	cooldown message: &4Stop! &cYou can only teleport to a random location every 2 hours.
+	permission: rtp.use
+	permission message: &cYou do not have permission to use this command
+	trigger:
+		set {_x} to round(random number between -100000 and 100000)
+		set {_z} to round(random number between -100000 and 100000)
+		set {_block} to block at location at ({_x}, 0, {_z}) in world event-world
+		loop all blocks above {_block}:
+			if loop-block is air:
+				block below loop-block is not water
+				block below loop-block is not air
+				if block above loop-block is air:
+					teleport player to loop-block
+					send "&aTeleported to a random location" to player

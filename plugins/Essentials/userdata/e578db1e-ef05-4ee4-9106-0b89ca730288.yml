@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.0.133.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730667856492
+  login: 1730667838929
+money: '0.0'
+last-account-name: KatakuriOnePiece
+lastlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: 0.0
+  y: 66.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 4bff1639-122a-459f-bdbf-eeedea4f8832
+  world-name: spawnworld
+  x: -74.52479421152462
+  y: 253.0
+  z: -26.459923379656615
+  yaw: -130.04920959472656
+  pitch: 77.54998779296875

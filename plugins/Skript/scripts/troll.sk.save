@@ -1,0 +1,19 @@
+command /troll <offlineplayer>:
+    permission: skript.troll
+    permission message: You do not have permission to use this command.
+    trigger:
+        if player is an operator:
+            set {_target} to arg-1
+            if {_target} is not set:
+                send "Please specify a player."
+                stop
+            if {_target} is online:
+                give {_target} blindness for 10 seconds
+                spawn tnt at {_target}'s location
+                send "%{_target}%'s eyes are blinded!"
+            else:
+                send "That player is not online."
+        else:
+            send "You must be an operator to use this command."
+
+

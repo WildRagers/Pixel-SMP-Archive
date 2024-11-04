@@ -1,0 +1,85 @@
+Command:
+  Argument:
+    Name:
+      Currency: currency
+      Page: page
+      Plugin: plugin
+  Migrate:
+    Desc: Migrate data from other plugin(s).
+    Error:
+      Plugin: <lgray>Plugin is not supported or installed!</lgray>
+    Start: <lgray>Started data migration from the <lyellow>%name%</lyellow>! This may take a while.</lgray>
+    Done: <lgray>Migrated data from the <lyellow>%name%</lyellow>!</lgray>
+  Reset:
+    Desc: Reset player's balances.
+    Done: <lgray>Reset all currency balances for <lyellow>%player_name%</lyellow>!</lgray>
+  Wipe:
+    Desc: Reset currency for all users.
+    Start: <lgray>Started currency data wipe for <lyellow>%currency_name%</lyellow>. This may take a while...</lgray>
+    Finish: <lgray>Finished currency data wipe for <lyellow>%currency_name%</lyellow>.</lgray>
+  Currency:
+    Root:
+      Desc: '%currency_name% commands.'
+    Balance:
+      Desc: View balance.
+    Give:
+      Desc: Add currency to a player.
+      Done: '<lgray>Added <lyellow>%amount%</lyellow> to <lyellow>%player_name%</lyellow>''s balance. New balance: <lyellow>%balance%</lyellow>.</lgray>'
+      Notify: <lgray><lyellow>%amount%</lyellow> has been added to your account!</lgray>
+    GiveAll:
+      Desc: Add currency to all online players.
+      Done: <lgray>Added <lyellow>%amount%</lyellow> to <lyellow>All Online</lyellow> players.</lgray>
+    Take:
+      Desc: Take player's currency.
+      Done: '<lgray>Taken <lyellow>%amount%</lyellow> from <lyellow>%player_name%</lyellow>''s balance. New balance: <lyellow>%balance%</lyellow>.</lgray>'
+      Notify: <lgray><lyellow>%amount%</lyellow> has been taken from your account!</lgray>
+    Set:
+      Desc: Set player's currency balance.
+      Done: <lgray>Set <lyellow>%player_name%</lyellow>'s <lyellow>%currency_name%</lyellow> balance to <lyellow>%balance%</lyellow>.</lgray>
+      Notify: <lgray>Your <lyellow>%currency_name%</lyellow> balance has been set to <lyellow>%amount%</lyellow>.</lgray>
+    Send:
+      Desc: Transfer currency to a player.
+      Error:
+        NotEnough: <lgray>You don't have enough <lred>%currency_name%</lred>!</lgray>
+        TooLow: <lgray>You can not send smaller than <lred>%amount%</lred>!</lgray>
+        NoPayments: <lgray><lred>%player_name%</lred> does not accept <lred>%currency_name%</lred>!</lgray>
+      Done:
+        Sender: <lgray>You sent <lyellow>%amount%</lyellow> to <lyellow>%player_name%</lyellow>!</lgray>
+        Notify: <lgray>You received <lyellow>%amount%</lyellow> from <lyellow>%player_name%</lyellow>!</lgray>
+    Payments:
+      Desc: Toggle payments acception from other players.
+      Toggle: '<lgray><lyellow>%currency_name%</lyellow> payments acception: <lyellow>%state%</lyellow>.</lgray>'
+      Target: '<lgray><lyellow>%currency_name%</lyellow> payments acception for <lyellow>%player_name%</lyellow>: <lyellow>%state%</lyellow>.</lgray>'
+    Exchange:
+      Desc: Exchange currency.
+    Top:
+      Desc: List of players with the most balance.
+      List:
+      - <noprefix>
+      - ' '
+      - <cyan><b>%currency_name% Top:</b></cyan>
+      - ' '
+      - '%entry%'
+      - ' '
+      - <lgray>Page <cyan>%current%</cyan> of <cyan>%max%</cyan>.</lgray>
+      - ' '
+      Entry: '<cyan>%pos%. <gray>%player_name%: </gray>%balance%</cyan>'
+Currency:
+  Balance:
+    Display:
+      Own: '<lgray>Balance: <lyellow>%balance%</lyellow>.</lgray>'
+      Others: '<lgray><lyellow>%player_name%</lyellow>''s balance: <lyellow>%balance%</lyellow>.</lgray>'
+  Exchange:
+    Error:
+      Disabled: <lgray><lred>%currency_name%</lred> can not be exchanged!</lgray>
+      NoRate: <lgray><lred>%currency_name%</lred> can not be exchanged for <lred>%name%</lred>!</lgray>
+      LowAmount: <lgray><lred>%currency_name%</lred> amount is too low for exchange!</lgray>
+      LimitExceed: <lgray>You could get <lred>%amount%</lred>, but you can't hold more than <lred>%max%</lred> total!</lgray>
+      LowBalance: <lgray>You don't have <lred>%amount%</lred> for exchange!</lgray>
+    Success: <lgray>You exchanged <lyellow>%balance%</lyellow> for <lyellow>%amount%</lyellow>!</lgray>
+  Error:
+    Invalid: <lgray><lred>%value%</lred> is not a valid currency!</lgray>
+VaultEconomy:
+  Error:
+    InvalidPlayer: Player not found.
+    InsufficientFunds: Insufficient Funds!

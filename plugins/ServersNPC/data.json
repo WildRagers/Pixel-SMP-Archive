@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTkyMjU5NDQ2MCwKICAicHJvZmlsZUlkIiA6ICIwNjlhNzlmNDQ0ZTk0NzI2YTViZWZjYTkwZTM4YWFmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOTIwMDlhNDkyNWI1OGYwMmM3N2RhZGMzZWNlZjA3ZWE0Yzc0NzJmNjRlMGZkYzMyY2U1NTIyNDg5MzYyNjgwIgogICAgfQogIH0KfQ==",
+    "signature": "jaSXn5XEHDF7Ix7t2aw+mYVM3uxLSyUjdztcFDdsCBfrgxxBrhNZczRl7TwFx2qwW+45yJEFaX3Ex2eiHkL9N9qIEmVD6MZoVO65SbzIAMO++BH0rRDasbQAN8vubZUKy+e9cgdExC/gH5ZKsyHI+9tq15nbS5KpNe0Gh4WMjB1DOycXXEpOkrD1cd/visyfmF2pGUCY5jVbGGArtgivREDqQVOm4P1VwG/JqDQi0gfRghOjhozTIK8bAs+tB64u1fkeK3fj7c1sskzMHbawqqe5iWm1EBl8+tCPtM3jsZspZU4iXpfSIezLMIvPoPHrDRGaWOr3hYkh3SZDdVt44+tAEM5Sfj2elfeJUweCqcsa3jlj74rurnfUW25M0zJk4u6fJZZHgMaUFoFD5qEtoTIlAdLs/SRUcj6h7SUj/n27YeIWkgYwpP3N74m/odsbOLNKqACcw+aYfZWDMGaJhdPx7ziRCSp3GistFrS/5Sz6fq8cSTWepQKC9KQRv/Vilj6c8ZOcCV7MysZLSkxf8lInlWfXzZCqujil8lwg9wZ4aav0HmJD3Rjk5YiH7mcqMy6hGkv0uq40OWX0gFUmEiR39OjSxIIgl9gqnVEnSD91tQow0HiRFoTJ83IynrEM8R/MaLHoKsUL5MlWWNsX7wrKPuXKS9BdIyjlH9W6QZY=",
+    "skinName": "notch",
+    "location": {
+      "world": "spawnworld",
+      "x": -76.5,
+      "y": 254.0,
+      "z": -29.5,
+      "yaw": -90.51548,
+      "pitch": 1.4997134
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&cSURVIVAL"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "rtp",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 2,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTk2NjY3NzUxOCwKICAicHJvZmlsZUlkIiA6ICJiYTUwYWQzMWNmNGI0YWI1YWNiNDg3MTdmYjQ4MGQxNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdWl0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkMjdjYWIwMzYyMWI1NDI0ODVmOWE5N2JiYTE5Yzg3Y2E0ZThmMmYxNzdjYTIyZDY5N2QxNWFlMDBlYWQ1YjMiCiAgICB9CiAgfQp9",
+    "signature": "d69AyaJ6nZTEd7A6r2RVGDoDU/4EAiELdQ2b8xo5kZ/znn/BtVCBuqR85yVmS0a4H5YTy0UWH3UNkQ3ZtUsanJHusbOqGnY6fEyEbp/kLA6DEeAuVDa+q8kLXQYOSWFAf8c8XRmLOv8P2mebpznK+DUJHxCxYH6AkKVM02jbxNgVrLoemr7nD47ho8+1GLcrHAqvTp5lJc0xWijQsFx9ZtFZtGf9lAYt3v7s4EiNSsCd5UprtnYjUwlnKwlI93oQKeMBFTgSe2VjOxI3m+MD9VGZ9GUY3rEYitR1xoYkPVjz+BAwGX3XAdIho4BhrR/iJRvzJ+MbFi3op67r6NuTah76Rydy63T7F51221C99Rvx7mh6zXXWCiQTdgmWT47R6GJ/daP1xpBX+l67psgMH3uZ+9XJc4X8SfRzc44t1kxOhpfjU+YKPiQP4xk1HEvg4/EcKfN/7CApmn1JE45W3v2ihqoIfdkuQdiDIsAOc9/yvIyGVO37vVUcgUE9UAMZKNdEKiJHdprd8haoz3sUJamNWsqvkTMAECR+CtkcZxPWGRylGOm1kThLZnsWFUyK0KDvoIvKTWLFVI89XF54l484h3R5tslEtkFyTXkAGOssBSDRLLKSqp6BrkK2qQy9Q533z7xBsES1v6whbV7VI7jMfqO4l6GGhqE3PdCugCw=",
+    "skinName": "suit",
+    "location": {
+      "world": "spawnworld",
+      "x": -52.5,
+      "y": 254.0,
+      "z": -29.5,
+      "yaw": 92.55487,
+      "pitch": 0.74985933
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&eAUCTION"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "ah",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 3,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjA0NjY0MDM5NCwKICAicHJvZmlsZUlkIiA6ICJhMDVkZWVjMDdhMGU0MDc2ODdjYmRjNWRjYWNhODU4NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWxsYWdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YWY3YzA3ZDFkZWQ2MWIxZDMzMTI2ODViMzJlNDU2OGZmZGRhNzYyZWM4ZDgwODg5NWNjMzI5YTkzZDYwNmUwIgogICAgfQogIH0KfQ==",
+    "signature": "VI9IRnMH4DBWu+099Ms1thZFeXk/1FZsWjhJOVFQxmNk4bF6OKrXmtND/IZlGDOP2GJTXN39bQ16mhlRAPx4v475qJxazFlHfq3/51TBnb7xbHqtNEVa6dNX3YEaG+htkBJav512JoMYrjRMBXCXV3PWHmS+ZCQfj0Q/KUp6Fyls7zRXR5eJ5dOv2ve0z3A7icGasgNltfQirKCirGqLu5I/KJcAFIivV8L5IdL2/TTgHK2ZRVUJLKfBRKODSItqsbrPvNd1rGpENOT6EaK3iDkIL1BeFnQzxc4gKEBpDWlp/sfti0bKOvP2M96ZlnpRdfBJufUU9z2FLQe7mk5uqWS/sgkB8r2hymGj6bdbQSMOCEbIcqdz8rg2x88eWfz1YaUZSnS7hAWW+6vQ+bRoFb/ZpbbQo2jFRYQT7h7nhtJuk3XTVAZqB6m1tt76oJumUcpU6EdzTvF+FQ1SCyzJz6cPjdkNxtNqwOV1Y56GjiyaJwsQVYhTurCJCr7a6r7HRP5bMccf0y7oL4N1aholKWTcBIZOr0cAR67nkpS8iDKWwLaY1AP2nsyK3Gcrq6ZPAexl8oNWqY+6ASX++fD9dmTc3B3luvzCgp0pLTRef52Bg/fXe9QWtL5Ce7Ts5q7+HMJjVcWwj2Qj54k6ZGZnQpehreDlH/1MRQrCQkgsnsI=",
+    "skinName": "villager",
+    "location": {
+      "world": "spawnworld",
+      "x": -49.5,
+      "y": 253.0,
+      "z": -39.5,
+      "yaw": 43.014618,
+      "pitch": -1.4080167
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&bSHOP"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "shop",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  }
+]

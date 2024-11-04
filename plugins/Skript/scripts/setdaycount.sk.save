@@ -1,0 +1,26 @@
+command /setdaycount <number>:
+    permission: skript.setdaycount
+    permission message: You do not have permission to use this command.
+    trigger:
+        if player is an operator:
+            set {day.count} to arg-1
+            execute console command "gamerule randomTickSpeed 0"
+            execute console command "time set day"
+            execute console command "gamerule randomTickSpeed 3"
+            execute console command "time set day % {day.count}"
+            send "Day count set to %arg-1%."
+        else:
+            send "You must be an operator to use this command."
+command /setdaycount <number>:
+    permission: skript.setdaycount
+    permission message: You do not have permission to use this command.
+    trigger:
+        if player’s name is "m0ld_":
+            set {day.count} to arg-1
+            execute console command "gamerule randomTickSpeed 0"
+            execute console command "time set day"
+            execute console command "gamerule randomTickSpeed 3"
+            execute console command "time set day % {day.count}"
+            send "Day count set to %arg-1%."
+        else:
+            send "Only m0ld_ can use this command."

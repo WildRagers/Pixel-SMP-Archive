@@ -1,0 +1,20 @@
+--2024-11-03 15:01:28--  https://www.dropbox.com/scl/fi/ggqc047gblr0o08jsibpv/Small_medieval_lobby-3.schematic?rlkey=fvuavq5px9y3hekf3kruqatf7
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.67.18, 2620:100:6020:18::a27d:4012
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.67.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com/cd/0/inline/CdqtQIECG71q2qDOloWFEXhK8XbyoN1l01bJv6x1VW0fcdkFGCpTTdjEDVTBk3miouRbQ2cokH_zDkjj8Hf5tsbShXwmvqkcGVQOjVbna3bOF5_TBIHRYI7lwNvKB2BflQknBbpN7pDvQcr_D1Y6wnW8/file# [following]
+--2024-11-03 15:01:28--  https://uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com/cd/0/inline/CdqtQIECG71q2qDOloWFEXhK8XbyoN1l01bJv6x1VW0fcdkFGCpTTdjEDVTBk3miouRbQ2cokH_zDkjj8Hf5tsbShXwmvqkcGVQOjVbna3bOF5_TBIHRYI7lwNvKB2BflQknBbpN7pDvQcr_D1Y6wnW8/file
+Resolving uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com (uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com)... 162.125.67.15, 2620:100:6020:15::a27d:400f
+Connecting to uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com (uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com)|162.125.67.15|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/CdrT-VMxYemfz02TmxKFwPSQIdis4ORNdXb4D61_I4893D-NIOALblX-A68_A9BvwWhpG9ikX4ev2cGCsHH7j1Z_Ybmx4dTrX7OMY3QotAQw9uRiJHK2PpHO5rxpcztZw_pF40eyAXuMGMMVL8Xs4ZF_HvcpGlMiaFGFMkcvO3PTbe2YZWbNQKpNykmY8nNjsxKRGzyCnMXrLY5N7qtJZ88RjOvoICJwjkJ2HJcxDn4y4a_zM_sIQXzdXT5qpZ7khc3Z8Pvgv7uhDS5qF2eNzMmJV3nKTfRqmWrmAApt9puY_ECopexKu6t6w-YA2aIbqOOIDxFVNolPkysZgIKDfEuIdmmViAL8sqKTbrarkkqHL5M2JmCymuvUgJesk-gnDdI/file [following]
+--2024-11-03 15:01:29--  https://uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com/cd/0/inline2/CdrT-VMxYemfz02TmxKFwPSQIdis4ORNdXb4D61_I4893D-NIOALblX-A68_A9BvwWhpG9ikX4ev2cGCsHH7j1Z_Ybmx4dTrX7OMY3QotAQw9uRiJHK2PpHO5rxpcztZw_pF40eyAXuMGMMVL8Xs4ZF_HvcpGlMiaFGFMkcvO3PTbe2YZWbNQKpNykmY8nNjsxKRGzyCnMXrLY5N7qtJZ88RjOvoICJwjkJ2HJcxDn4y4a_zM_sIQXzdXT5qpZ7khc3Z8Pvgv7uhDS5qF2eNzMmJV3nKTfRqmWrmAApt9puY_ECopexKu6t6w-YA2aIbqOOIDxFVNolPkysZgIKDfEuIdmmViAL8sqKTbrarkkqHL5M2JmCymuvUgJesk-gnDdI/file
+Reusing existing connection to uca8bb515df52f9307276ac383c4.dl.dropboxusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 64571 (63K) [application/octet-stream]
+Saving to: ‘Small_medieval_lobby-3.schematic?rlkey=fvuavq5px9y3hekf3kruqatf7’
+
+               Small_medieval   0%[                                                  ]       0  --.-KB/s               Small_medieval_lobby-3.schema 100%[=================================================>]  63.06K  --.-KB/s    in 0.02s   
+
+2024-11-03 15:01:30 (3.84 MB/s) - ‘Small_medieval_lobby-3.schematic?rlkey=fvuavq5px9y3hekf3kruqatf7’ saved [64571/64571]
+

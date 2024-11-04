@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 51.155.106.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730753674542
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730753738686
+  login: 1730753641643
+money: '451.44'
+last-account-name: Jr_Oscar
+lastlocation:
+  world: 4bff1639-122a-459f-bdbf-eeedea4f8832
+  world-name: spawnworld
+  x: -67.03632428909448
+  y: 253.0
+  z: -29.42051715086458
+  yaw: 89.7009506225586
+  pitch: -8.250282287597656
+logoutlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: -1144.808228472671
+  y: 85.0
+  z: -218.31515571620534
+  yaw: -146.8781280517578
+  pitch: 19.650053024291992
+homes:
+  home:
+    world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+    world-name: world
+    x: -1150.2665764020635
+    y: 63.0
+    z: -240.93245774856942
+    yaw: -64.22834777832031
+    pitch: 20.399974822998047

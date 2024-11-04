@@ -1,0 +1,44 @@
+simple:
+  updateTime: 40
+  titles: '&#08FB85&lꜱ&#24FB8B&lᴜ&#40FC90&lʀ&#5CFC96&lᴠ&#77FC9C&lɪ&#93FCA2&lᴠ&#AFFDA7&lᴀʟ'
+  scores:
+    17:
+        frames:
+          - '&c&m                               &f'
+          - '&6&m                               &f'
+          - '&e&m                               &f'
+          - '&9&m                               &f'
+          - '&5&m                               &f'
+          - '&a&m                               &f'
+    16:
+        - text: '   &7⌚ %localtime_time_MMM d, Y%'
+          update: 120
+        - text: '   &7⌚ %localtime_time_h:mm a%'
+          update: 40
+    15: ''
+    14: '&7%player%:'
+    13: '&c⭐ &fʀᴀɴᴋ: %luckperms_prefix%'
+    12: '&a&l$ &fᴍᴏɴᴇʏ: &a$%vault_eco_balance%'
+    11: '&6&l✨ &fɢᴇᴍꜱ: &a%simplegems_balance%'
+    10: ''
+    8:
+       frames:
+        - '&#3D65E0🌊 &fᴘʟᴀʏᴛɪᴍᴇ: &#3D65E0%statistic_time_played:hours% Hours'
+        - '&#3D65E0🌊 &fᴘʟᴀʏᴛɪᴍᴇ: &#3D65E0%statistic_time_played:minutes% Minutes'
+    7:
+        - text: '&c⚔ &fᴋɪʟʟꜱ: &c%statistic_player_kills%'
+          update: 40
+        - text: '&4☠ &fᴅᴇᴀᴛʜꜱ: &4%statistic_deaths%'
+          update: 40
+        - text: '&4☠ &fKDR: &4%statistic_player_kills%:%statistic_deaths%'
+          update: 80
+    5: ''
+    4: '&7⛏ ᴘɪxᴇʟꜱᴍᴘ.xʏᴢ'
+    3:
+        frames:
+          - '&c&m                               &f'
+          - '&6&m                               &f'
+          - '&e&m                               &f'
+          - '&9&m                               &f'
+          - '&5&m                               &f'
+          - '&a&m                               &f'

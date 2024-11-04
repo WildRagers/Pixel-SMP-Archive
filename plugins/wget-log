@@ -1,0 +1,20 @@
+--2024-11-02 20:01:25--  https://www.dropbox.com/scl/fi/dd780x4i4vor8bro6zjs6/worldedit-bukkit-7.3.8.jar?rlkey=89nlkh1rshqlckkt2iv2awsem
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.67.18, 2620:100:6020:18::a27d:4012
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.67.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com/cd/0/inline/CdrF980p7w7tiGxhvyARu6uEqfO0vfXnDCIaekuecA5HekkFqxKcOxRQuhSXYxot1UFYEPJOzN1kZ45usAQtLvE-CS6uTnMWcMcytZgOnSEpjfzSwdxuamWoY-z-KfFJUyzTgQNZhjBC-R-pX5GLfetJ/file# [following]
+--2024-11-02 20:01:26--  https://uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com/cd/0/inline/CdrF980p7w7tiGxhvyARu6uEqfO0vfXnDCIaekuecA5HekkFqxKcOxRQuhSXYxot1UFYEPJOzN1kZ45usAQtLvE-CS6uTnMWcMcytZgOnSEpjfzSwdxuamWoY-z-KfFJUyzTgQNZhjBC-R-pX5GLfetJ/file
+Resolving uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com (uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com)... 162.125.67.15, 2620:100:6020:15::a27d:400f
+Connecting to uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com (uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com)|162.125.67.15|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/Cdpg6Bgdf42ZrVZb3ApXLyNy_Vj_vV2dRJwD7ln6S7CUNn0jAMF_rAQ7Exu08yKDVnyzWd9i6Gje-5csQpcJM8lSPOk2E67ca-JEgCn7MiNmddGqd8LGT_fPeOccIJbMq31_nsUMDdKiw2zo_AiNK_4TJIDn4_pjtY5TITUDKHyYdqjVYm3gxZo9lehK2O7skaq94RYHqzZMBHPXDGYaR1R3lZwrEgJ-GaoXvjj782h2tSvZ50cW1HObfjkeexuWbh3ir9fogz5fTtFYoVcXCuBxUx8OCzyftHf1txBLnBYTQyrTKsTgImWYFxGm6-YrGRSRjkf7UCUb-qvEnKB0jVlPZ-yaZLL8sHbdFu4KhzyPqYoxpvBS6Wd8wkbGcvmyYZ4/file [following]
+--2024-11-02 20:01:27--  https://uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com/cd/0/inline2/Cdpg6Bgdf42ZrVZb3ApXLyNy_Vj_vV2dRJwD7ln6S7CUNn0jAMF_rAQ7Exu08yKDVnyzWd9i6Gje-5csQpcJM8lSPOk2E67ca-JEgCn7MiNmddGqd8LGT_fPeOccIJbMq31_nsUMDdKiw2zo_AiNK_4TJIDn4_pjtY5TITUDKHyYdqjVYm3gxZo9lehK2O7skaq94RYHqzZMBHPXDGYaR1R3lZwrEgJ-GaoXvjj782h2tSvZ50cW1HObfjkeexuWbh3ir9fogz5fTtFYoVcXCuBxUx8OCzyftHf1txBLnBYTQyrTKsTgImWYFxGm6-YrGRSRjkf7UCUb-qvEnKB0jVlPZ-yaZLL8sHbdFu4KhzyPqYoxpvBS6Wd8wkbGcvmyYZ4/file
+Reusing existing connection to uc90b01bf2d50722a801bfeda71a.dl.dropboxusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5926715 (5.7M) [application/java-archive]
+Saving to: ‘worldedit-bukkit-7.3.8.jar?rlkey=89nlkh1rshqlckkt2iv2awsem’
+
+          worldedit   0%[                    ]       0  --.-KB/s                        worldedit-  73%[=============>      ]   4.16M  20.8MB/s               worldedit-bukkit-7. 100%[===================>]   5.65M  21.5MB/s    in 0.3s    
+
+2024-11-02 20:01:27 (21.5 MB/s) - ‘worldedit-bukkit-7.3.8.jar?rlkey=89nlkh1rshqlckkt2iv2awsem’ saved [5926715/5926715]
+

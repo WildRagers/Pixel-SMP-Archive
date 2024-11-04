@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.70.224.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730675826190
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730672574604
+  login: 1730673184389
+money: '1125.4'
+last-account-name: Tyrant_Leaf
+lastlocation:
+  world: bea6c958-e92a-4812-bc89-597e9326af98
+  world-name: world_nether
+  x: 276.49009115733753
+  y: 51.0
+  z: -121.42088977497777
+  yaw: 86.18000793457031
+  pitch: -7.35006856918335
+logoutlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: 159.09899685969899
+  y: 81.0
+  z: -267.5143664250587
+  yaw: 93.95285034179688
+  pitch: -5.850849628448486

@@ -1,0 +1,12 @@
+location: spawnworld:-67.543:256.000:-23.537
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#FFE259P&#FFDD58U&#FFD858M&#FFD357P&#FFCE56K&#FFC956I&#FFC555N &#FFBB54C&#FFB653R&#FFB152A&#FFAC52T&#FFA751E'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.177.196.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730741203928
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730742737638
+  login: 1730742746627
+money: '0.0'
+last-account-name: GreenGuzzzler
+lastlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: -2929.708123207161
+  y: 64.17675927506424
+  z: -290.66606127754676
+  yaw: 47.201263427734375
+  pitch: 46.52239227294922
+logoutlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: -1364.0962089143923
+  y: 43.0
+  z: -300.97897588236555
+  yaw: -18.713638305664062
+  pitch: 25.47859001159668

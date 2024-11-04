@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 143.58.199.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730672109293
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730672144157
+  login: 1730669266401
+money: '21.81'
+last-account-name: AIRCWAFT
+lastlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: -559.414670209226
+  y: 68.0
+  z: -129.34385772797395
+  yaw: -81.6729736328125
+  pitch: 51.29969024658203
+homes:
+  home:
+    world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+    world-name: world
+    x: -1163.7797326647956
+    y: 63.0
+    z: -246.82034271970622
+    yaw: -63.67251205444336
+    pitch: 39.899749755859375
+logoutlocation:
+  world: f1eab97e-94b1-48e8-8eeb-46623c0fe591
+  world-name: world
+  x: -1161.6244805886279
+  y: 63.0
+  z: -247.36965323261794
+  yaw: -26.77398681640625
+  pitch: 1.1997761726379395

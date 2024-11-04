@@ -1,0 +1,212 @@
+Name: Pumpkin Crate
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 0
+  Cost:
+    money: 35000.0
+Key:
+  # Sets whether or not keys are required to open this crate.
+  Required: false
+  Ids: []
+Block:
+  Positions:
+  - -68,254,-24,spawnworld
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: default
+    Y_Offset: 0.0
+  Effect:
+    Model: HELIX
+    Particle:
+      Name: DRIPPING_LAVA
+Milestones:
+  Repeatable: false
+Rewards:
+  List:
+    '1':
+      Name: Pumpkin Chestplate
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - k0001800korfdlo6urj5dpq762g02pmmirj5cdp62pjk79imsor8c5n78rb5dpq762g00pm6atj5dhpg600hdlkmspb3e9gmct1qdlimsp39dpjg00000c1g06bdd5n6aoric5j78ej6d5p6anrge9nn8pb3ehkmurg00000a0o02hmmirj5cdp62pjk79o74rrkclhn8qbfdo0000050c01krb9dpim6sj1cpq3kojcc5pn8nrge9nn8pb3ehkmurg00000a0o02hmmirj5cdp62pjk79qmsojiclgmmqbecs0000030000g00ldlkmspb3e9gmct1qcdqn6t3fdlfmsobdck0boup2cls78sj148t5mup2c9nmop1279j62r3jckm24orfdhnn48hq49i62sjbbtp6ap125gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2s6q9hodkjjgr93f1mice3d4bp6lcjd10s6q89ikss6q8fqksm7gr96v1miccl7v1mi0e3d4rs6q8e8hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk006005cdnnarjk000000880016ip003hmmirj5cdp62pjk79i6iobddtn68nr3d1in6t3gdhgn8p80
+      Ignored_For_Permissions: []
+    pumpkin_sword:
+      Name: Pumpkin Sword
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - a0000k00acdnmqs3fdpimst3j1001arb9dpim6sj1cpq3korledq6uravdpgmqp80lpti4pboehp628hqbdti4ojfdhi24ej6c5m76p9c49hmur3fe8h3k8j4c5p6mnricli24b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t25odkj3gr9771mi6u3d4os6q8nidap6q21qksm7gr98f1mi7sl071mi2i4b12eln68pbidhkmspb448t6cobcedinqn9c49q6au3k48t248jt1801crb9dpim6sj1cpq3kpbecdk62rjkdlimst3j1800cr35epimoso3008mqqbeclhn4ob6egt6qpbechkmspo0000040o02lmmirj5cdp62pjk79j6isj5btgn6s35cdq000000c1g04rdd5n6aoric5j78ejjd1gn4s3eclpn60000030600kdlkmspb3e9gmct1qeln64sj5c5lmirj7000000o000006005cdnnarjk000000880016ip002tmmirj5cdp62pjk79i6iobddtn68nrjetnn4p00
+      Ignored_For_Permissions: []
+    pumpkin_shield:
+      Name: Pumpkin Shield
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - a0000k00acdnmqs3fdpimst3j1001arb9dpim6sj1cpq3korledq6uravdpgmqp80ltti4pboehp628hqbdti4ojfdhi24ej6c5m76p9c49hmur3fe8h3k8j4c5p6mnricli24b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t25odkj3gr9771mi6u3d4os6q8nidap6q21qksm759pidas6q8fikvs6q8a8hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk5005jdd5n6aoric5j78ej5dphmgobeehmmarjkec5001jcclr6ar3j0c012rb9dpim6sj1cpq3krb5dpi6irj7000000g300a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg00000g000003002m6rrldpq00000044000j9cg010rb9dpim6sj1cpq3ksr8d5imop00
+      Ignored_For_Permissions: []
+    pumpkin_fishing_rod:
+      Name: Pumpkin Fishing Rod
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - 2g0005002j3dtmn0rrecln78so800amqqbeclhn4ob6egt66tbjehnmqnrec5mma05pfch6au3ke9gi4eirfch64rrccgh3kpj1dhpmab12cdnmorri48t24p31e9llusj5cgh2o8j9ehgmoqb348t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12ehingt1278he3d4os6q9podkhngr9671mi5sjam9mggel75gp6lel75hpaecjam9mj4q486ag3gr93v1mi2i4b12eln68pbidhkmspb448t6cobcedinqn9c49q6au3k48t248jt1801crb9dpim6sj1cpq3kpbecdk62rjkdlimst3j1800cr35epimoso3008mqqbeclhn4ob6egt6qpbechkmspo0000040o035mmirj5cdp62pjk79m7aorbbtnmcnrkd1ilusr5c40000040c00srb9dpim6sj1cpq3kr3le9ig00000o000003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3kpj9edk6irj7btp6up00
+      Ignored_For_Permissions: []
+    pumpkin_leggings:
+      Name: Pumpkin Leggings
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - a0000k00acdnmqs3fdpimst3j1801crb9dpim6sj1cpq3kpbecdk62rjkdlimst3j1800cr35epimoso3008mqqbeclhn4ob6egt6qpbechkmspo0000040o035mmirj5cdp62pjk79j6isj5bto74rrkclhn8qbfdo0000050c018rb9dpim6sj1cpq3ks3idtq6aorkd5nms0000030600qdlkmspb3e9gmct1qc9m62srkbto74rrkclhn8qbfdo0000050c018rb9dpim6sj1cpq3ktbec9p6aobbd5n6e000001g000800amqqbeclhn4ob6egt66tbjehnmqnrec5mma05ifch6au3ke9gi4eirfch64rrccgh3kpj1dhpmab12cdnmorri48t24p31e9llusj5cgh2o8j9ehgmoqb348t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12ehingt1278he3d4os6q9podkhngr9671mi5sjam9mggcl7v1mi3sj8m9kb4qlidkp6hel75h48m24tbechin4r39dpim88hqcpgmosr5fleio8jkcls788hq48h7q003002m6rrldpq00000044000j9cg01krb9dpim6sj1cpq3kp39c5mmurj4btm6apr7d5n6eso0
+      Ignored_For_Permissions: []
+    pumpkin_helmet:
+      Name: Pumpkin Helmet
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - 180002g019hmurbgdtn6arjkec5005jdd5n6aoric5j78ej5dphmgobeehmmarjkec5001jcclr6ar3j0c012rb9dpim6sj1cpq3krb5dpi6irj7000000g300bmqqbeclhn4ob6egt62sblc5fm2pj6d5n6it3p000000g300d6qqbeclhn4ob6egt64r31edq5us3idtq6aorkd5nms000002g600pdlkmspb3e9gmct1qcpkn4pave1p6ut35cdq6irre0000018300amqqbeclhn4ob6egt74pbje1kn4obkd5nms0000020600kdlkmspb3e9gmct1qe1p6ut35cdq6irre000001g300a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg00000c0002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig1c3r49ingt3ic4h3kmrr49h6ur3448t6cobcediio8j3dtm6ush278h68obiddfn4pb448m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq4bgr9671miee3d4ds6q9hodkhf4qlidk4359podkgv59vodkhngr91v1midi4b12eln68pbidhkmspb448t6cobcedinqn9c49q6au3k48t248jt001g01b3dtqmst000000220009km800odlkmspb3e9gmct1qchkm2rbfdpi5uq35dhmmat00
+      Ignored_For_Permissions: []
+    pumpkin_boots:
+      Name: Pumpkin Boots
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - a0000k00acdnmqs3fdpimst3j1801crb9dpim6sj1cpq3kpbecdk62rjkdlimst3j1800cr35epimoso3008mqqbeclhn4ob6egt6qpbechkmspo0000040o035mmirj5cdp62pjk79j6aobkd1in4nr6c5m6oqbecs0000050c01irb9dpim6sj1cpq3kpj9e9ilus3idtq6aorkd5nms000002g600kdlkmspb3e9gmct1qe1p6ut35cdq6irre000001g300d6qqbeclhn4ob6egt64r31edq5us3idtq6aorkd5nms000002g600kdlkmspb3e9gmct1qeln64sj5c5lmirj7000000o0004005bdd5n6aoric5j78ej3elpn8rrdbtn62rb502n7m8j5f1q74o9279dnm8j2dtm688hqcpgmosr55gh66rrcdtp24eh2chgn4qqve9im88hc49kn8obcd5hi4ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh78pboegh3k8n1mice3d4ss6q8rodkj3gr92u9lb4r886aj7gr93v1mi7u3d4rtaeb28hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk006005cdnnarjk000000880016ip002tmmirj5cdp62pjk79i6iobddtn68nr2dtnn8so0
+      Ignored_For_Permissions: []
+    pumpkin_pickaxe:
+      Name: Pumpkin Pickaxe
+      Weight: 25.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5004bdd5n6aoric5j78ejge9nmcqbcck40013ec5mma00g68rj0db6cgsj8o9gccq36c9p684g02jge9nn0pbiehkmasoa000000880026sobdck00gt35f1q7asj5ec4001bmc5m7ap80mhiniihgb9c6gc34b156oorp94r6auaaah9j0r2f95l70dq9dpb7ioi394r4irb861i4gg9m9hsjic2qb1k30p2o99m66u9lehgledbcb4pkkq2qdp8naojdaoo4ocqidhikgkhhcdmlatidd9hnejinb9lkul2id16kej9g9lt4adadd9i6qmbaa9m4sqid6lcmkgjdb4p5kqae8hlj6jakchm4sh25f56mkpphb5a42uapd98nkjqnalrkql25f5d4ehbp9lmkiuaqah56ombp98smcm1g7k00m002d5i000000jg94c8fm313itlln5ol1gq3eb300003002m6rrldpq00000044000j9cg01arb9dpim6sj1cpq3ks3cc5smasivd1im2p00
+      Commands: []
+      Items:
+      - 50000a00566rrde1nmspbeehpgg00ldlkmspb3e9gmct1qcdqn6t3fdlfmsobdck0b4up2cls78sj148t5mup2c9nmop1279j62r3jckm24orfdhnn48hq49i62sjbbtp6ap125gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2s6q9hodkjjgr93f1mice3d4bp6lcjd10s6q9hidas6q89odkhfgr903os6q8e8hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk5005jdd5n6aoric5j78ej5dphmgobeehmmarjkec5001jcclr6ar3j0c012rb9dpim6sj1cpq3krb5dpi6irj7000000o300a6qqbeclhn4ob6egt6apj6d5hmipbecdsg00000o1g04bdd5n6aoric5j78ej6dtp78tbeck0000050c018rb9dpim6sj1cpq3ktbec9p6aobbd5n6e000001g00000c00aorfeln78000000gg002d5i006bdd5n6aoric5j78ej4d5gmqrrechfn0qb3ddgngp80
+      Ignored_For_Permissions: []
+Item:
+  Material: PLAYER_HEAD
+  SkinURL: 7a3c8c6d3aaa96363d4bef2578f1024781ea14e9d85a9dcfc0935847a6fb5c8d
+  Name: '&fPumpkin Crate Crate'
+  Item_Flags:
+  - HIDE_ADDITIONAL_TOOLTIP
+Last_Opener: m0ld_
+Last_Reward: Pumpkin Fishing Rod

@@ -1,0 +1,13 @@
+command /crate:
+    description: Teleport the player to the crate location
+    usage: /crate
+    permission: crate.use
+    trigger:
+        # Define the location where you want to teleport the player
+    
+
+        # Teleport the player to the specified location
+        teleport player to location(-67, 253, -29, world "spawnworld")
+
+        # Optionally, send a message to the player
+        send "You have been teleported to the crates!" to player

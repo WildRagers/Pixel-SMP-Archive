@@ -1,0 +1,54 @@
+# Localized currency name.
+# Text Formations: https://github.com/nulli0n/nightcore-spigot/wiki/Text-Formation
+Name: Money
+# Currency symbol, like '$'.
+# Text Formations: https://github.com/nulli0n/nightcore-spigot/wiki/Text-Formation
+Symbol: $
+# Currency display format.
+# Use '%amount%' placeholder for amount value.
+# You can use 'Currency' placeholders: https://nightexpress.gitbook.io/coinsengine/utility/placeholders
+# You can use PlaceholderAPI placeholders that are NOT bound to a player (e.g. Oraxen or ItemsAdder %img% placeholders)
+# Text Formations: https://github.com/nulli0n/nightcore-spigot/wiki/Text-Formation
+Format: '%amount%%currency_symbol%'
+# Currency short display format.
+# Use '%amount%' placeholder for amount value.
+# You can use PlaceholderAPI placeholders that are NOT bound to a player (e.g. Oraxen or ItemsAdder %img% placeholders)
+# You can use 'Currency' placeholders: https://nightexpress.gitbook.io/coinsengine/utility/placeholders
+Format_Short: '%currency_symbol%%amount%'
+# Custom currency commands. Split with commas.
+Command_Aliases: money
+# Currency icon.
+Icon:
+  Material: GOLD_NUGGET
+# Sets whether or not currency value can have decimals.
+Decimal: true
+# Sets whether or not the currency will synchronize balance of online players from the database.
+# This setting is useless for SQLite.
+# You may want to disable this if you're using this currency on a single server only.
+Synchronized: false
+# Sets whether or not players must have 'coinsengine.currency.money' permission to use this currency.
+Permission_Required: false
+# Sets whether or not players can send this currency to other players.
+Transfer_Allowed: true
+# Sets minimal amount for sending this currency to other players.
+# Set this to '-1' for no limit.
+Transfer_Min_Amount: 0.0
+# How much of this currency new players will have on their balance?
+Start_Value: 0.0
+# Max. possible value that players can have on their balance.
+# Set this to '-1' to disable.
+Max_Value: -1.0
+Economy:
+  # When enabled, uses the Vault API to register the currency as primary server Economy.
+  Vault: true
+Exchange:
+  # Sets whether or not this currency can be exchanged for other ones.
+  Allowed: true
+  Rates:
+    your_currency_name: 5
+    other_currency_name: 10
+# Sets database column name for this currency.
+# This might be useful for MySQL if you want to use the same currency for multiple servers, but not share their balance.
+# =============== WARNING ===============
+# When chaning this setting, all balances will retain in PREVIOUS column!
+Column_Name: money
